@@ -3,15 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Authors>Mohammad Sadeq Sirjani</Authors>
-    <Description>A .NET Standard library which generates random passwords with different settings</Description>
+    <Description>Cactus.Blade.Passenator is a simple utility that solves a common problem pragmatically.</Description>
     <Copyright>Copyright 2020</Copyright>
-    <PackageProjectUrl>https://dev.azure.com/msadeqsirjani/Cactus.Password.Generator</PackageProjectUrl>
+    <PackageProjectUrl>https://dev.azure.com/msadeqsirjani/Cactus.Blade.Passenator</PackageProjectUrl>
     <PackageIcon>cactus.png</PackageIcon>
     <PackageLicenseFile>LISENCE</PackageLicenseFile>
-    <RepositoryUrl>https://dev.azure.com/msadeqsirjani/Cactus.Password.Generator</RepositoryUrl>
+    <RepositoryUrl>https://dev.azure.com/msadeqsirjani/Cactus.Blade.Passenator</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <Version>1.0.1</Version>
+    <Version>1.2.0</Version>
+    <Product>Cactus</Product>
+    <AssemblyName>Cactus.Blade.Passenator</AssemblyName>
+    <RootNamespace>Cactus.Blade.Passenator</RootNamespace>
+    <PackageReleaseNotes>Cactus.Blade.Passenator is a simple utility that solves a common problem pragmatically.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

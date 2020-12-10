@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passenator", "Passenator\Passenator.csproj", "{B777A4C5-A905-45BC-8E27-48BA2B0C3B3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passenator.Test", "Passenator.Test\Passenator.Test.csproj", "{DE67E4D6-FABB-4FD9-8901-D7EF370CAAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B777A4C5-A905-45BC-8E27-48BA2B0C3B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B777A4C5-A905-45BC-8E27-48BA2B0C3B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B777A4C5-A905-45BC-8E27-48BA2B0C3B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B777A4C5-A905-45BC-8E27-48BA2B0C3B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE67E4D6-FABB-4FD9-8901-D7EF370CAAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE67E4D6-FABB-4FD9-8901-D7EF370CAAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE67E4D6-FABB-4FD9-8901-D7EF370CAAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE67E4D6-FABB-4FD9-8901-D7EF370CAAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B16547-E949-43F8-9A31-E73D617FDF58}
+	EndGlobalSection
+EndGlobal
