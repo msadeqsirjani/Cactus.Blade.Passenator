@@ -1,4 +1,4 @@
-using Cactus.Password.Generator;
+using Cactus.Blade.Passenator;
 using NUnit.Framework;
 using System.Linq;
 using System.Text.RegularExpressions;

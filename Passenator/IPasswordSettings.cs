@@ -1,4 +1,4 @@
-﻿namespace Cactus.Password.Generator
+﻿namespace Cactus.Blade.Passenator
 {
     public interface IPasswordSettings
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Cactus.Password.Generator
+namespace Cactus.Blade.Passenator
 {
     /// <summary>
     ///     Holds all of the settings for the password generator
