@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cactus.Password.Generator
+namespace Cactus.Blade.Passenator
 {
     public interface IPassword
     {

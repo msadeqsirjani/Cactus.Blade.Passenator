@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text.RegularExpressions;
 
-namespace Cactus.Password.Generator
+namespace Cactus.Blade.Passenator
 {
     /// <summary>
     ///     Generates random passwords and validates that they meet the rules passed in
@@ -192,7 +192,7 @@ namespace Cactus.Password.Generator
             return (int)Math.Floor((double)(min + Math.Abs(randomNumber % (max - min))));
         }
 
-        private static int GetRngCryptoSeed(RNGCryptoServiceProvider rng)
+        private static int GetRngCryptoSeed(RandomNumberGenerator rng)
         {
             var rngByteArray = new byte[4];
             rng.GetBytes(rngByteArray);
